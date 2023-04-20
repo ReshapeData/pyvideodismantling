@@ -1,0 +1,8 @@
+setup.py
+pyvideodismantling/__init__.py
+pyvideodismantling/main.py
+pyvideodismantling.egg-info/PKG-INFO
+pyvideodismantling.egg-info/SOURCES.txt
+pyvideodismantling.egg-info/dependency_links.txt
+pyvideodismantling.egg-info/requires.txt
+pyvideodismantling.egg-info/top_level.txt
